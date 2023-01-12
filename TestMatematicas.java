@@ -15,7 +15,7 @@ public class TestMatematicas{
 	if (par == true){
 		System.out.printf("El numero %d es par",dato);
 	}else{
-		System.out.printf("El numero %d es impar",dato);
+		System.out.printf("El numero %d es impar",dato); 
 	}
 
 	
