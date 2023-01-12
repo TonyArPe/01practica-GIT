@@ -12,10 +12,10 @@ public class Matematicas {
 	x = true;
 }
 	else{
-	x = false;
+	x = false; 
 	}
 		
-	return x; 
+	return x;
 	}
 }
 
